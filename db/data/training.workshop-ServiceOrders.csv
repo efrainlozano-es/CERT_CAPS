@@ -1,0 +1,21 @@
+ID;customer;priority;status;technician_ID
+8516bfc8-35b9-3f87-831d-aadfff4cf300;Logaly Group;S;OPEN;5363ef46-42ad-3d19-a98c-d74229d27c7d
+eece4c8e-94f8-3921-8c48-aa30613712ce;Nexa Industrials;E;PROG;03c6bdb3-3ce1-3d9c-a728-e4d1e80e840e
+a983a4e9-bd0a-3fa0-850f-c24ee636b7fa;AquaSoft;C;DONE;81dbf118-5206-3fba-bdac-9fd98312b326
+c3afdd1b-ecd9-3a15-a134-19f297b97ebb;Pueblo Verde;S;OPEN;3d37ecd9-5623-3bb8-8c55-deb478d90841
+24ed1e9f-9166-3df4-880e-f8d808df01db;Metro Link;E;PROG;91bbc615-764c-34b0-8a32-f4ace89b2e6d
+976293e3-1f96-337b-ac4a-4453bf908728;Soluciones Delta;C;DONE;fe107f1b-7b1e-322e-8748-61293a4fe3fd
+d86c0adb-ebcd-36b0-b52f-ff410f200a33;ACME Foods;S;OPEN;27133c47-026a-385a-a6b9-c60363fe3efa
+2d60e81b-88b5-3312-8574-49c890bec843;Andina Transport;E;PROG;0ddda456-0e36-3930-9c20-a034b447461f
+7b0644fe-15bf-37af-8f34-f46e5049afa2;Turbo Works;C;DONE;7838e21d-7dca-3be1-9b78-22ee51f828b7
+d554c4d3-68f7-3423-9383-283f5d43ce07;Maderas Sur;S;OPEN;831a90b4-8c8c-3c93-b98b-73e75865bb92
+3ebc9efb-e832-349d-bd29-6aa88437b710;OptiEnergy;E;PROG;a91fef3b-e7ac-35d5-a2dc-c16e5b8df6e5
+6f592c4c-9d5a-3b58-bbfd-208e55392f8d;BioLab SAS;C;DONE;d307aa66-b6a8-3f42-b86f-0a7a10b16504
+847d866f-a6fb-304e-ac56-9b0d4b695f32;Planta Central;S;OPEN;f64078f3-4cb7-3af5-b741-15287e020f57
+fdb093e6-f0f1-3091-9bc8-3eee957200eb;Pacifico Retail;E;PROG;132cedbc-4f6c-3a66-819d-46985bf8e6f3
+550b80f2-3465-3dca-8b1d-c4e5f7ab9dfa;Minera Norte;C;DONE;e28f8447-d42c-30f6-ab0d-762e55ea759a
+86ce8b27-be2d-35b2-9413-ca0bba258083;Ciclos Logistica;S;OPEN;cf2344fb-220f-3509-a9a1-9fb41e8e3c8b
+1e88b2ea-f26e-3e4b-bc14-204c430464ac;Brixton Pharma;E;PROG;ce510231-c5e5-3518-8fb3-621c11f49e4c
+711af91a-fec2-3f86-a02e-6ba2d29bf18e;HidraPlus;C;DONE;fdbba50d-26fe-368f-88b4-7c56d409106f
+375e4ca5-67e3-34d4-b435-da81c870b6de;Alfa Robotics;S;OPEN;2d3d65d0-886d-30ba-b0bf-2a76b486a9f3
+c30de562-5777-3a9d-ac8f-b94ac987a599;Helios Systems;E;PROG;9949bdc9-217d-37d2-a986-5e9c93e5f013
